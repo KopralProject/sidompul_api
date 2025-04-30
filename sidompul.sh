@@ -2,7 +2,7 @@
 
 nomer_hp="$1"
 nomer_hp=$(echo "$nomer_hp" | sed 's/^08/628/')
-login_email=""
+login_email="kopralwann04@gmail.com"
 file_output="/tmp/xl.json"
 
 login() {
